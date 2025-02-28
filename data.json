@@ -1,14 +1,58 @@
 {
-    "images": [
-      "https://raw.githubusercontent.com/agunghakase/mysticker/main/8638199_young_man_fishing_in_the_riverstransparent_00001_.png",
-        "https://raw.githubusercontent.com/agunghakase/mysticker/main/ComfyUI_00020_.png",
-        "https://raw.githubusercontent.com/agunghakase/mysticker/main/ComfyUI_00004_.png",
-        "https://raw.githubusercontent.com/agunghakase/mysticker/main/ComfyUI_00065_.png",
-        "https://raw.githubusercontent.com/agunghakase/mysticker/main/ComfyUI_00097_.png",
-        "https://raw.githubusercontent.com/agunghakase/mysticker/main/ComfyUI_00101_.png",
-        "https://raw.githubusercontent.com/agunghakase/mysticker/main/ComfyUI_00123_.png",
-        "https://raw.githubusercontent.com/agunghakase/mysticker/main/ComfyUI_00129_.png",
-        "https://raw.githubusercontent.com/agunghakase/mysticker/main/ComfyUI_00253_.png"
-        
-    ]
-  }
+  "popular": [
+    {
+      "id": 1,
+      "image": "https://raw.githubusercontent.com/agunghakase/mysticker/main/8638199_young_man_fishing_in_the_riverstransparent_00001_.png",
+      "likes": 120,
+      "views": 1000
+    },
+    {
+      "id": 2,
+      "image": "https://raw.githubusercontent.com/agunghakase/mysticker/main/ComfyUI_00020_.png",
+      "likes": 95,
+      "views": 850
+    },
+    {
+      "id": 3,
+      "image": "https://raw.githubusercontent.com/agunghakase/mysticker/main/ComfyUI_00004_.png",
+      "likes": 95,
+      "views": 850
+    },
+      {
+      "id": 4,
+      "image": "https://raw.githubusercontent.com/agunghakase/mysticker/main/ComfyUI_00065_.png",
+      "likes": 95,
+      "views": 850
+    },
+      {
+      "id": 5,
+      "image": "https://raw.githubusercontent.com/agunghakase/mysticker/main/ComfyUI_00097_.png",
+      "likes": 95,
+      "views": 850
+    },
+      {
+      "id": 6,
+      "image": "https://raw.githubusercontent.com/agunghakase/mysticker/main/ComfyUI_00101_.png",
+      "likes": 95,
+      "views": 850
+    },
+      {
+      "id": 7,
+      "image": "https://raw.githubusercontent.com/agunghakase/mysticker/main/ComfyUI_00123_.png",
+      "likes": 95,
+      "views": 850
+    },
+      {
+      "id": 8,
+      "image": "https://raw.githubusercontent.com/agunghakase/mysticker/main/ComfyUI_00129_.png",
+      "likes": 95,
+      "views": 850
+    },
+      {
+      "id": 9,
+      "image": "https://raw.githubusercontent.com/agunghakase/mysticker/main/ComfyUI_000253_.png",
+      "likes": 95,
+      "views": 850
+    }
+  ]
+}
